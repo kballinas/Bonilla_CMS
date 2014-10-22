@@ -1,0 +1,10 @@
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\bin\Debug\Bonilla_CMS.Core.dll.config
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\bin\Debug\Bonilla_CMS.Core.dll
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\bin\Debug\Bonilla_CMS.Core.pdb
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\bin\Debug\EntityFramework.dll
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\bin\Debug\EntityFramework.xml
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\obj\Debug\Bonilla_CMS.Core.csprojResolveAssemblyReference.cache
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\obj\Debug\Bonilla_CMS.Core.dll
+C:\Users\salcidoc\Documents\GitHub\Bonilla_CMS\Bonilla_CMS\Bonilla_CMS.Core\obj\Debug\Bonilla_CMS.Core.pdb

@@ -3,12 +3,40 @@
     ViewBag.Title = "Bonilla Topografia";
 }
 @section featured {
-    <section class="featured">
-        <div class="content-wrapper">
-         
-        
-        </div>
-    </section>
+
 }
 
+<section>
+    <img src="~/Images/bonillaLogo.JPG" />
+</section>
 
+<aside id="IndexDesciption">
+    <article>
+        <h1>Topografia Bonilla</h1>
+        <p>
+            Le ofrecemos nuestros servicios como topógrafos en toda la Region Centro-Sur de Chihuahua, dándole siempre calidad a los mejores precios del mercado.
+        </p>
+
+    </article>
+</aside>
+
+<section>
+    <h1>Datos de contacto</h1>
+
+    <ul>
+        <li>Telefono: 648-469-4908
+        </li>
+        <li>E-mail:<a href="mailto:fjbonillas@hotmail.com ">fjbonillas@hotmail.com </a>
+        </li>
+
+    </ul>
+</section>
+
+<section>
+    <h1>Lista De Servicios</h1>
+
+    <ol>
+        <li>@Html.ActionLink("Mediciones Topograficas","medicionTopografica","Home")</li>
+        <li>@Html.ActionLink("Levantaciones Topograficas","levantacionTopo","Home") </li>
+    </ol>
+</section>
