@@ -403,5 +403,14 @@ namespace Bonilla_CMS.Controllers
             }
         }
         #endregion
+
+        //Metodo para anadir informacion de cliente
+
+        public ActionResult addClientInformation()
+        {
+
+
+          return  RedirectToAction("Manage");
+        }
     }
 }
