@@ -1,0 +1,31 @@
+﻿@model Bonilla_CMS.Models.ModelDeCliente
+
+@{
+    ViewBag.Title = "Test";
+}
+
+
+
+
+@using (Html.BeginForm("Test", "Home", null))
+{
+
+    @Html.LabelFor(model => model.Nombre)
+    @Html.EditorFor(model => model.Nombre)
+    <br />
+    @Html.LabelFor(model => model.Apellido)
+    @Html.EditorFor(model => model.Apellido)
+    <br />
+    @Html.LabelFor(model => model.Telefono)
+    @Html.EditorFor(model => model.Telefono)
+    <br />
+    @Html.LabelFor(model => model.email)
+    @Html.EditorFor(model => model.email)
+
+
+
+    <p>
+        <input type="submit" value="añadir" />
+
+    </p>
+}

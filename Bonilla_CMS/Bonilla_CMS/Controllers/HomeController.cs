@@ -28,5 +28,23 @@ namespace Bonilla_CMS.Controllers
 
             return View();
         }
+        public ActionResult MedicionesTopo() {
+            return View();
+        
+        }
+        public ActionResult LevantacionTopo()
+        {
+            return View();
+        }
+
+        public ActionResult PeritacionTopo()
+        {
+            return View();
+        }
+
+        public ActionResult Test()
+        {
+            return View();
+        }
     }
 }
